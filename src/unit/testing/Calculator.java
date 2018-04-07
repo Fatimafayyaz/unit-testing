@@ -9,7 +9,7 @@ public class Calculator{
     }
     public int subtraction(int num1,int num2)
     {
-        int total=num1-num2;
+        int total=num1+num2;
         return total;
     }
     public int multiplication(int num1,int num2)
